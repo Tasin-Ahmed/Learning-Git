@@ -1,1 +1,1 @@
-Utility function of version3
+Utility function of version3 & version 6
